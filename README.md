@@ -51,7 +51,7 @@ python mapkitjs_token_generator.py
 
 A couple of seconds later you will see something like this
 
-![Script output]()
+![Script output](https://github.com/fitomad/mapkitjs-jwt-token-generator/blob/master/Screenshots/Captura.JPG)
 
 ## Links
 
